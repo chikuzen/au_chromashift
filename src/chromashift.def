@@ -1,0 +1,5 @@
+LIBRARY chromashift
+
+EXPORTS
+	GetFilterTable @1
+

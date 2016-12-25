@@ -1,0 +1,8 @@
+src/.vs/*
+src/Release/*
+src/Debug/*
+archive/*
+*.sln
+*.db
+*.opendb
+*.filters
